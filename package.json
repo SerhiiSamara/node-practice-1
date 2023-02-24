@@ -1,29 +1,29 @@
 {
-	"name": "practice-1",
-	"version": "1.0.0",
-	"description": "",
-	"main": "index.js",
-	"devDependencies": {
-		"chalk": "^4.0.0",
-		"nodemon": "^2.0.20"
-	},
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "node index",
-		"start:dev": "nodemon index"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/SerhiiSamara/node-practice-1.git"
-	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/SerhiiSamara/node-practice-1/issues"
-	},
-	"homepage": "https://github.com/SerhiiSamara/node-practice-1#readme",
-	"dependencies": {
-		"yargs": "^17.6.2"
-	}
+  "name": "practice-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "chalk": "^4.0.0",
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerhiiSamara/node-practice-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerhiiSamara/node-practice-1/issues"
+  },
+  "homepage": "https://github.com/SerhiiSamara/node-practice-1#readme",
+  "dependencies": {
+    "yargs": "^17.7.1"
+  }
 }
